@@ -13,7 +13,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: jkalmbach1/500
+  IMAGE_NAME: jkalmbach1/404
 
 jobs:
   build-and-push:
